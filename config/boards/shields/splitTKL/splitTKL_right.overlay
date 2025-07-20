@@ -4,7 +4,7 @@
 /* bump every RC(column) by +7 so RC(0,0)→RC(0,3), etc. */
 &default_transform {
     col-offset = <7>;
-}
+};
 
 &kscan0 {
     /* right-half rows */
